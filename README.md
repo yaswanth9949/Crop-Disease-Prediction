@@ -5,6 +5,8 @@ PROBLEM STATEMENT
 Plants and foliage are very susceptible to diseases that affect plant growth, which in turn affects farmers. In order to detect a plant disease at a very early stage, it is beneficial to use
 an automatic crop disease prediction technique. Nowadays there are many common diseases affecting leaves such as: B. Bacterial spot, leaf spot, rot, powdery mildew, etc. Manually detecting the disease is a very difficult task. Therefore, it is necessary to develop software methods that make the disease detection and classification process use images of leaves. Overcome this problem to find out if the crop is sick or healthy.
 
+
+
 OBJECTIVES 
 
 The following objectives of this project:
@@ -26,6 +28,7 @@ The following objectives of this project:
 8. If disease is dete cted it should say crop name, type of disease, how to cure of the disease.
 
 9. Having to try others machine learning models to test it.
+
 
 
 CONCLUSION
